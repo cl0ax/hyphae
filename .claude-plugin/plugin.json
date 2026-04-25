@@ -1,10 +1,10 @@
 {
-  "name": "vault-tools",
-  "description": "Tools for organizing Obsidian vaults — auto-creates concept notes, wikilinks, frontmatter, and index files so the graph view reflects meaningful connections between your notes.",
+  "name": "obsidian-skills",
+  "description": "Skills for organizing Obsidian vaults — auto-creates concept notes, wikilinks, frontmatter, and index files so the graph view reflects meaningful connections between your notes.",
   "version": "0.1.0",
   "author": {
     "name": "cl0ax"
   },
-  "homepage": "https://github.com/cl0ax/vault-tools",
+  "homepage": "https://github.com/cl0ax/obsidian-skills",
   "license": "MIT"
 }

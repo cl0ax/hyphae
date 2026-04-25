@@ -1,4 +1,4 @@
-# vault-tools
+# obsidian-skills
 
 Claude Code plugin that turns a pile of disconnected Obsidian notes into a navigable knowledge graph — automatically.
 
@@ -25,7 +25,7 @@ This plugin fixes that. Take notes however you take notes — bullet points, str
 In Claude Code:
 
 ```
-/plugin install cl0ax/vault-tools
+/plugin install cl0ax/obsidian-skills
 ```
 
 ## Usage
