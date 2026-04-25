@@ -1,10 +1,10 @@
 {
-  "name": "obsidian-skills",
-  "description": "Skills for organizing Obsidian vaults — auto-creates concept notes, wikilinks, frontmatter, and index files so the graph view reflects meaningful connections between your notes.",
+  "name": "hyphae",
+  "description": "Threads that weave your Obsidian notes into a knowledge graph. Auto-creates concept notes, wikilinks, frontmatter, and indexes so your graph view reflects how your ideas actually connect.",
   "version": "0.1.0",
   "author": {
     "name": "cl0ax"
   },
-  "homepage": "https://github.com/cl0ax/obsidian-skills",
+  "homepage": "https://github.com/cl0ax/hyphae",
   "license": "MIT"
 }
