@@ -32,14 +32,20 @@ In Claude Code:
 
 ## Usage
 
-Open a Claude Code session with your vault as the working directory, then say any of:
+Open a Claude Code session with your vault as the working directory, then:
 
+**Organize your vault:**
 - "organize my vault"
 - "I added new notes, process them"
 - "add wikilinks to my notes"
 - "update my Obsidian"
 
-The skill triggers automatically and walks through your unprocessed notes.
+The `obsidian-organize` skill triggers automatically and walks through your unprocessed notes.
+
+**Annotate unclear notes:**
+- "annotate this note" (pointing to a file with uncertain parts)
+- Adds clarifying comments in `*\`code\`*` format directly in the note
+- Never rewrites content, only adds explanations for unclear parts
 
 ## What kind of vault does it work on?
 
@@ -65,7 +71,8 @@ Your voice. The skill **never** rewrites or polishes your notes. Half-formed bul
 
 ## Skills included
 
-- **`obsidian-organize`** — the main organizer
+- **`obsidian-organize`** — Scans unprocessed notes, extracts concepts, adds wikilinks, builds indexes, maintains Home.md
+- **`obsidian-annotate`** — Creates an annotated copy of a note with clarifying comments in italicized code format. Use when your notes have uncertain parts ("I think...", "find what that means", unexplained references)
 
 More threads to come — daily-note templating, vault auditing, concept pruning, review workflows.
 
